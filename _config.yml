@@ -1,0 +1,12 @@
+title: TTNRT Health
+email: support@ttnrtsite.me
+description: >- # this means to ignore newlines until "baseurl:"
+  View the health reports from all servers in our network
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  TTNRT
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
