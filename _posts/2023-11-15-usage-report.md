@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ussage report 2023/11/15
+title:  Usage report 2023/11/15
 date:   2023-11-15 10:36:00 -0500
 ---
 
